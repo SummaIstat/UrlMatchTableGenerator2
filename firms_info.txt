@@ -1,0 +1,4 @@
+﻿FIRM_ID	FIRM_NAME	OFFICIAL_URL	CERTIFIED_MAIL
+111	Acme Corporation	www.acmecorporation.com	acmecorp@pec.acmecorp.com
+222	Los Pollos Hermanos	www.lospolloshermanos.net	lospollos@firmpec.net
+333	Abstergo Industries	www.abstergoindustries.it	administration@pec.abstergo.it
